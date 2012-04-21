@@ -5,4 +5,4 @@ A MSSQL database backup utility  that backs up full and partial to your server h
 
 Parameters
 ----------
-![Application Parameters](morsdyce.github.com/MSSQL-Backup-Utility/parameters.png)
+![Application Parameters](MSSQL-Backup-Utility/parameters.png)
