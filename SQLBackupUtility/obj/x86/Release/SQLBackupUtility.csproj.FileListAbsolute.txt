@@ -1,0 +1,9 @@
+c:\users\maayan\documents\visual studio 2010\Projects\SQLBackupUtility\SQLBackupUtility\bin\Release\SQLBackupUtility.exe
+c:\users\maayan\documents\visual studio 2010\Projects\SQLBackupUtility\SQLBackupUtility\bin\Release\SQLBackupUtility.pdb
+c:\users\maayan\documents\visual studio 2010\Projects\SQLBackupUtility\SQLBackupUtility\bin\Release\NDesk.Options.dll
+c:\users\maayan\documents\visual studio 2010\Projects\SQLBackupUtility\SQLBackupUtility\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\maayan\documents\visual studio 2010\Projects\SQLBackupUtility\SQLBackupUtility\obj\x86\Release\SQLBackupUtility.exe
+c:\users\maayan\documents\visual studio 2010\Projects\SQLBackupUtility\SQLBackupUtility\obj\x86\Release\SQLBackupUtility.pdb
+D:\Developer\ASP.NET\sqlbackup-utility\SQLBackupUtility\bin\Release\SQLBackupUtility.exe.config
+D:\Developer\ASP.NET\sqlbackup-utility\SQLBackupUtility\obj\x86\Release\SQLBackupUtility.exe
+D:\Developer\ASP.NET\sqlbackup-utility\SQLBackupUtility\obj\x86\Release\SQLBackupUtility.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLBackupUtility", "SQLBackupUtility\SQLBackupUtility.csproj", "{5022A9BD-B1C2-473B-A641-E6C34FC78BFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5022A9BD-B1C2-473B-A641-E6C34FC78BFF}.Debug|x86.ActiveCfg = Release|x86
+		{5022A9BD-B1C2-473B-A641-E6C34FC78BFF}.Debug|x86.Build.0 = Release|x86
+		{5022A9BD-B1C2-473B-A641-E6C34FC78BFF}.Release|x86.ActiveCfg = Release|x86
+		{5022A9BD-B1C2-473B-A641-E6C34FC78BFF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
